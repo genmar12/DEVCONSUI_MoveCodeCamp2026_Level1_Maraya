@@ -66,16 +66,16 @@ const useMetaTags = (metadata: {
 // PORTFOLIO DATA CONFIGURATION
 // ============================================================================
 const defaultPortfolioData = {
-  name: "LADY DIANE BAUZON CASILANG",
+  name: "GENESIS A. MARAYA",
   course: "BS in Information Technology",
-  school: "FEU Institute of Technology",
-  about: "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+  school: "bukidnon State University",
+  about: "I am a student currently bridging the worlds of Information Technology and Law. My technical background is rooted in Full-Stack Development, where I enjoy the challenge of building functional systems—like grievance management platforms and chatbots—using frameworks like Laravel and Django.",
   skills: [
     "Graphic Design",
-    "UI / UX Design",
-    "Project Management",
-    "Full Stack Development",
-    "Web & App Development"
+    "Networking",
+    "Basic Medic",
+    "AI Prompt Engineer",
+    "Networking"
   ],
   linkedin: "https://www.linkedin.com/in/ldcasilang/",
   github: "https://github.com/ldcasilang",
